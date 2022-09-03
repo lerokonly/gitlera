@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&display=swap');
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+    font-family: Montserrat, sans-serif;
+    background-color: whitesmoke;
+    font-size: 16px;
+}
+h1 span {
+    color: rgb(142, 180, 172);
+}
+h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-top: 10px;
+}
+img {
+    height: 250px;
+    width: 400px;
+    border-radius: 5px;
+}
+.main-left {
+    width: 450px;
+    border: 1px solid black;
+    padding: 0 25px;
+    margin: 0 15px;
+    -webkit-box-shadow: 0px 2px 15px 1px rgba(0,0,0,0.8);
+    box-shadow: 0px 2px 15px 1px rgba(0,0,0,0.8);
+    border-radius: 5px;
+}
+.main-left td {
+    width: 450px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    padding-top: 10px;
+}
+ul {
+    list-style-type: none;
+}
+.main {
+    width: 1800px;
+    height: 800px;
+    border-spacing: 25px;
+}
+.main-right {
+    width: 900px;
+    border: 1px solid black;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin: 0 15px;
+    -webkit-box-shadow: 0px 2px 15px 1px rgba(0,0,0,0.8);
+    box-shadow: 0px 2px 15px 1px rgba(0,0,0,0.8);
+    border-radius: 5px;
+}
+.main-right td {
+    width: 1000px;
+    border-bottom: 1px solid black;
+    padding-top: 10px;
+    padding-block-end: 5px;
+}
+.size {
+    font-size: 18px;
+}
+p {
+    text-align: center;
+    background-color: rgb(91, 173, 160);
+    
+    margin-top: 30px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 35px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-block-end: 15px;
+    color: white;
+}
+h2 {
+    padding: 5px;
+}

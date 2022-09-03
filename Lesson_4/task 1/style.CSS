@@ -1,0 +1,20 @@
+.green {
+    color: chartreuse;
+    font-size: 16px;
+}
+.yellow {
+    color: gold;
+    font-size: 22px;
+}
+.blue {
+    color: aqua;
+    font-size: 14px;
+}
+.red {
+    color: rgb(207, 26, 26);
+    font-size: 18px;
+}
+.orang {
+    color: orangered;
+    font-size: 20px;
+}
