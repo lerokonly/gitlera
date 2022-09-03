@@ -1,0 +1,9 @@
+.content {
+    display: flex;
+    flex-wrap: wrap;
+}
+.text {
+    flex-grow: 1;
+    flex-basis: 200px;
+    border: 1px solid black;
+}
